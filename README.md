@@ -13,11 +13,6 @@ A curated collection of my C++ projects demonstrating various programming concep
   - Student registration with name, roll number, and address.
   - Bed reservation with real-time availability checks.
   - Data persistence using file handling.
-- **Installation**:
-  1. Clone the repository: `git clone https://github.com/your-username/cpp-projects.git`
-  2. Navigate to the project directory: `cd cpp-projects/hostel-accommodation`
-  3. Compile the code: `g++ main.cpp -o hostel`
-  4. Run the application: `./hostel`
 
 ### Airline Management System
 - **Description**: A command-line application that simulates airline ticket bookings, allowing users to view flights, book tickets, and manage reservations.
@@ -25,11 +20,15 @@ A curated collection of my C++ projects demonstrating various programming concep
   - Flight schedule display with available seats.
   - Ticket booking with passenger details.
   - Reservation cancellation and seat availability updates.
-- **Installation**:
-  1. Clone the repository: `git clone https://github.com/your-username/cpp-projects.git`
-  2. Navigate to the project directory: `cd cpp-projects/airline-management`
-  3. Compile the code: `g++ main.cpp -o airline`
-  4. Run the application: `./airline`
+
+### Gym Management System
+- **Description**: A command-line application developed in C++ that facilitates efficient management of gym memberships, attendance tracking, and fee calculations. This system allows gym administrators to add new 
+                   members, record attendance, and compute total fees based on predefined criteria.
+- **Features**:
+  - Add new gym members by entering their name and age.
+  - Mark daily attendance for members by their name.
+  - Calculate total fees based on attendance and age.
+
 
 ## Technologies Used
 - C++
